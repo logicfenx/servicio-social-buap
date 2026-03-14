@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/servicio-social-buap",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a servicio-social-buap",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/servicio-social-buap.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/servicio-social-buap/"
+    },
+    "homepage": "https://www.logicfen.org/blog/servicio-social-buap/"
+}
